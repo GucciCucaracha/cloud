@@ -12,7 +12,7 @@ import (
 	"github.com/matishsiao/goInfo"
 	"github.com/pkg/errors"
 	"golang.org/x/net/proxy"
-	"goprojects/cloud/service"
+	"./service"
 	"io"
 	"io/ioutil"
 	"net/http"
