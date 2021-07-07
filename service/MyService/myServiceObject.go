@@ -5,7 +5,7 @@ package myService
 import (
 	"encoding/json"
 	"fmt"
-	"goprojects/cloud/service"
+	"./service"
 	"io/ioutil"
 	"math"
 	"os"
